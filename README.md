@@ -19,4 +19,4 @@ https://www.youtube.com/watch?v=kxKny1qWf5Q&t=304s <br>
 За изработка на играта се користени готови асети. <br>
 <br>
 Видео демо:<br>
-[![screen recording](https://i.ytimg.com/an_webp/014rtgaI2ao/mqdefault_6s.webp?du=3000&sqp=CIKPj4EG&rs=AOn4CLDfgnxspr8BHNXBn7WLThHQUdU7tA)](https://youtu.be/014rtgaI2ao)
+[![screen recording](https://i.ytimg.com/an_webp/014rtgaI2ao/mqdefault_6s.webp?du=3000&sqp=COqSkYEG&rs=AOn4CLCLobBUmXPdzZWtWmSav3JJ1kGzCA)](https://youtu.be/014rtgaI2ao)
